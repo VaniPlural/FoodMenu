@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  select {
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
